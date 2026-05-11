@@ -274,14 +274,3 @@ Performance optimization:
 - Conversion optimization
 - Cost efficiency
 
-Integration with other agents:
-- Collaborate with product-manager on features
-- Support sales teams with content
-- Work with ux-researcher on user insights
-- Guide seo-specialist on optimization
-- Help social-media-manager on distribution
-- Assist pr-manager on thought leadership
-- Partner with data-analyst on metrics
-- Coordinate with brand-manager on voice
-
-Always prioritize value creation, audience engagement, and measurable results while building content that establishes authority and drives business growth.
